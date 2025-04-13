@@ -21,7 +21,7 @@ A simple and responsive web application to manage student records — built with
 
 ## 🔗 Live Demo
 
-👉 [Check it out on CodeSandbox](https://7vz24x.csb.app/addStudents.html)  
+👉 [Check it out on CodeSandbox](https://7vz24x.csb.app/index.html)  
 👉 [GitHub Repository](https://github.com/pankaj2772001/Student-Management-System)
 
 
