@@ -21,19 +21,7 @@ A simple and responsive web application to manage student records — built with
 
 ## 🔗 Live Demo
 
-👉 [Check it out on CodeSandbox](https://codesandbox.io/s/student-management-system)  
-👉 [GitHub Repository](https://github.com/yourusername/student-management-system)
+👉 [Check it out on CodeSandbox](https://7vz24x.csb.app/addStudents.html)  
+👉 [GitHub Repository](https://github.com/pankaj2772001/Student-Management-System)
 
-## 📷 Screenshots
-
-> _You can add screenshots here to showcase the UI!_
-
-![App Screenshot](screenshot.png)
-
-## 📁 How to Run Locally
-
-```bash
-git clone https://github.com/yourusername/student-management-system.git
-cd student-management-system
-open index.html in your browser
 
